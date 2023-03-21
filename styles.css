@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: rgb(247, 238, 226);
+}
+
+.logoimg{
+    margin-left:70px;
+}
+
+.navbar{
+    height:70px;
+}
+
+.nav{
+    display:inline-block;
+    margin-left: 50%;
+}
+
+.nav-item{
+    margin: 20px;
+    font-size: 17px ;
+    padding: 10px 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-item:hover{
+    font-size: 18px;
+    font-weight:400;
+    cursor: pointer;
+}
+.h3{
+    font-size: 20px;
+    margin-left: 570px;
+}
+.h4{
+    font-size: 20px;
+    margin-left: 520px;
+}
+
+.main{
+    margin-top: 100px;
+    margin-left: 36%;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.class{
+    display: grid;
+    grid-template-columns: 65% auto;
+}
+
+.class1{
+    font-size: 15px;
+    text-align: center ;
+}
+
+.class2{
+    font-size: 15px;
+    margin-left: 50%;
+        margin: 10px 40px;
+        text-align: center ;
+}
+
+.classbtn{
+    margin-left: 52%;
+    background-color:rgb(32, 109, 109);
+}
+
+.classbtn:hover{
+    background-color: rgb(18, 131, 137);
+}
+
+.dropdown-item{
+    margin: auto;
+}
+
+.searchbar{
+    margin-left: 53%;
+    margin-top: 10px;
+    padding: 7px 12px;
+    border-radius: 7px;
+}
+
+.subbtn{
+    margin-left: 59%;
+    background-color:rgb(32, 109, 109);
+}
+
+.subbtn:hover{
+    background-color: rgb(18, 131, 137);
+}
+
+.submitbtn{
+    margin-left: 55%;
+    margin-top: 70px;
+    padding: 10px 50px;
+    background-color: rgb(44, 22, 56);
+    border-radius: 7px;
+    color: white;
+}
+
+.submitbtn:hover{
+    background-color: rgb(83, 44, 103);
+}
+
